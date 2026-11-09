@@ -18,7 +18,7 @@ It has five components:
 
 (v) `xenium_breast_v1_analyses` contains the Xenium v1 breast cancer notebooks for EMT plasticity hallmark scoring and CNA input preparation.
 
-The scripts can also been found at [Zenodo](https://doi.org/10.5281/zenodo.23884754).
+The scripts and associated data can also been found at [Zenodo](https://doi.org/10.5281/zenodo.23884754).
 
 ## Citation
 
