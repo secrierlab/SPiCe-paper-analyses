@@ -12,7 +12,7 @@ It has four components:
 
 (iv) `supplementary_analyses` holds the notebooks behind the supplementary results: simulations and a simVI archetype comparison (`00`, `01`, `06`), and Xenium processing, EMT plasticity hallmark scoring, CNA inputs and spatial regression for the breast (`YY_*`), lung (`ZZ_*`) and Xenium v1 (`AA_*`) datasets.
 
-The scripts can also been found at [Zenodo](https://doi.org/10.5281/zenodo.23884754).
+The scripts and associated data can also been found at [Zenodo](https://doi.org/10.5281/zenodo.23884754).
 
 ## Citation
 
